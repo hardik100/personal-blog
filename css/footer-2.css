@@ -1,0 +1,14 @@
+
+ #ft {
+    background-color: coral;
+    grid-area: ft;
+    margin-top: 10px;
+    height:fit-content;
+    text-align: center;
+}
+
+i {
+    color: black;
+    margin-left: 10px;
+    margin-top: 2px;
+}
